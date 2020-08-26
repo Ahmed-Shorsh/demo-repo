@@ -1,6 +1,6 @@
 # Demo
 
-kono dio da!
+Kono dio da!
 
 
 ## The sub header
